@@ -1,3 +1,3 @@
 # Houdini
 
-Starting this to store Houdini notes and hipfile 
+This is to store Houdini notes and hipfiles for learning and sharing purposes :) 
